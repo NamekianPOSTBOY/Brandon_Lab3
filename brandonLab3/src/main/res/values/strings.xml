@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BrandonLab3</string>
+    <string name="title_frag1"> 1: Brandon</string>
+    <string name="title_frag2"> 2: Rodrigues</string>
+    <string name="title_frag3"> 3: S301126222</string>
+    <string name="no1">Fragment One</string>
+    <string name="no2">Fragment Two</string>
+    <string name="no3">Fragment Three</string>
+
+</resources>
+<!-- Brandon Aaron Rodrigues 301126222 SEC.02 -->
