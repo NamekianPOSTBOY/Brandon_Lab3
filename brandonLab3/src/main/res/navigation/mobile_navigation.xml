@@ -9,7 +9,7 @@
         android:id="@+id/navigation_home"
         android:name="brandon.rodrigues.s301126222.ui.Brandon.BrandonFragment"
         android:label="@string/no1"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_brandon" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
