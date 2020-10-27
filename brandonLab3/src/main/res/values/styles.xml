@@ -20,7 +20,7 @@
 
     <style name="brandon_Frag_2">
         <item name="android:textColor">
-            @color/style13
+            @color/style2
 
         </item>
         <item name="android:textSize">
@@ -37,7 +37,7 @@
         <item name="android:textSize">
             @dimen/frag3_text
         </item>
-
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>

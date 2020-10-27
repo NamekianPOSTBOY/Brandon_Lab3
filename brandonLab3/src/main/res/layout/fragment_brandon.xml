@@ -9,7 +9,7 @@
 
 
     <ImageView
-        android:id="@+id/fragImage"
+        android:id="@+id/brandonfragImage"
         android:layout_width="649dp"
         android:layout_height="386dp"
         android:src="@drawable/mariobackground"
@@ -46,7 +46,6 @@
 
     <RadioGroup
         android:id="@+id/brandonColourRadioGrp"
-
         android:layout_width="94dp"
         android:layout_height="84dp"
         app:layout_constraintBottom_toBottomOf="parent"

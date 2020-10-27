@@ -16,7 +16,6 @@
     <string name="update_brush">Update Brush</string>
     <string name="mario">Mario</string>
     <string name="brandon_rodrigues_301126222">Brandon Rodrigues 301126222</string>
-    <string name="vibrate">Vibrate</string>
     <string name="normal"> 2 sec.</string>
     <string name="_4x">0.5 sec.</string>
     <string name="_1_2">4 sec.</string>
@@ -27,6 +26,7 @@
     <string name="star">Star</string>
     <string name="rodrigues">Rodrigues</string>
     <string name="brandon">Brandon</string>
+    <string name="create_contact">Create Contact</string>
 
 </resources>
 <!-- Brandon Aaron Rodrigues 301126222 SEC.02 -->

@@ -1,5 +1,5 @@
 <resources>
     <dimen name="frag1_text">8pt</dimen>
-    <dimen name="frag2_text">12pt</dimen>
+    <dimen name="frag2_text">10pt</dimen>
     <dimen name="frag3_text">8pt</dimen>
 </resources>
