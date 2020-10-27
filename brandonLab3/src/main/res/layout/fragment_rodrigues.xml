@@ -7,6 +7,32 @@
     android:background="@color/bg2"
     tools:context=".ui.Rodrigues.RodriguesFragment">
 
+    <ImageView
+        android:id="@+id/brandonImageView2"
+        android:layout_width="79dp"
+        android:layout_height="95dp"
+        android:src="@drawable/star"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.951"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.075"
+        android:contentDescription="@string/star" />
+
+    <ImageView
+        android:id="@+id/brandonImageView3"
+        android:layout_width="79dp"
+        android:layout_height="95dp"
+        android:src="@drawable/star"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.048"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.075"
+        android:contentDescription="@string/star" />
+
     <Button
         android:id="@+id/brandonPermissionBttn"
         android:layout_width="match_parent"
@@ -68,15 +94,60 @@
         app:layout_constraintVertical_bias="0.853" />
 
     <TextView
-        android:id="@+id/playbackSpeed"
-        android:layout_width="109dp"
-        android:layout_height="35dp"
+        android:id="@+id/brandonStarPowerTitle"
+        android:layout_width="173dp"
+        android:layout_height="44dp"
         android:gravity="center"
-        android:text="@string/playback_speed"
+        android:text="@string/star_power"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.917" />
+        app:layout_constraintVertical_bias="0.112" />
+
+    <Button
+        android:id="@+id/brandonStopAnimBttn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.628"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.773" />
+
+    <Button
+        android:id="@+id/brandonStartAnimBttn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.356"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.773" />
+
+    <LinearLayout
+        android:id="@+id/brandonImageRow"
+        android:layout_width="297dp"
+        android:layout_height="296dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.421">
+
+        <ImageView
+            android:id="@+id/brandonStarPower"
+            android:layout_width="299dp"
+            android:layout_height="308dp">
+
+        </ImageView>
+
+    </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

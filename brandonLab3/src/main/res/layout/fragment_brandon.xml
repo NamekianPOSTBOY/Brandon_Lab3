@@ -118,6 +118,7 @@
         android:layout_height="30dp"
         android:gravity="center"
         android:text="@string/brandon_rodrigues_301126222"
+        style="@style/brandon_Frag_1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

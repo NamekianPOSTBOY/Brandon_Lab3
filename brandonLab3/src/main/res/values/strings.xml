@@ -17,11 +17,16 @@
     <string name="mario">Mario</string>
     <string name="brandon_rodrigues_301126222">Brandon Rodrigues 301126222</string>
     <string name="vibrate">Vibrate</string>
-    <string name="normal">Normal</string>
-    <string name="_4x">4x</string>
-    <string name="_1_2">1/2</string>
-    <string name="_2x">2x</string>
-    <string name="playback_speed">Playback Speed</string>
+    <string name="normal"> 2 sec.</string>
+    <string name="_4x">0.5 sec.</string>
+    <string name="_1_2">4 sec.</string>
+    <string name="_2x">1 sec.</string>
+    <string name="star_power">STAR POWERRRR!!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="star">Star</string>
+    <string name="rodrigues">Rodrigues</string>
+    <string name="brandon">Brandon</string>
 
 </resources>
 <!-- Brandon Aaron Rodrigues 301126222 SEC.02 -->

@@ -7,4 +7,37 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="brandon_Frag_1">
+        <item name="android:textColor">
+            @color/style13
+
+        </item>
+        <item name="android:textSize">
+            @dimen/frag1_text
+        </item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="brandon_Frag_2">
+        <item name="android:textColor">
+            @color/style13
+
+        </item>
+        <item name="android:textSize">
+            @dimen/frag2_text
+        </item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="brandon_Frag_3">
+        <item name="android:textColor">
+            @color/style13
+
+        </item>
+        <item name="android:textSize">
+            @dimen/frag3_text
+        </item>
+
+    </style>
+
 </resources>
